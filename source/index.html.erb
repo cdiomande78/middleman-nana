@@ -66,10 +66,11 @@ title: Welcome to Stylus
   <dix class="container">
     <div class="row">
       
-  <% data.testimonials.each do |testimonial| %>
-    <h3><%= testimonial.name %></h3>
-    <p><%= testimolnail.message %></p>
-  <% end -%>
+      <% data.testimonials.each do |testimonial| %>
+        <%=image_tag testimonial.image_file, class: "img-circle" %>
+        <h3><%= testimonial.name %></h3>
+        <p><%= testimolnail.message %></p>
+      <% end %>
 
     </div>
   </dix>

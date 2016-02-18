@@ -1,4 +1,6 @@
-- name: Bill Gates
-  message: C'est l'invention du siècle !
-- name: Steve Jobs
-  message: Je n'aurai pas fait mieux !
+- name: Bill gates
+  message: C'est l'invention du siècle
+  image_file: bill-gates.jpg
+- name: Paul Graham
+  message: Je ne pourrai pas faire mieux
+  image_file: Steve.jpg
