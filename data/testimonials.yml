@@ -4,3 +4,15 @@
 - name: Paul Graham
   message: Je ne pourrai pas faire mieux
   image_file: Steve.jpg
+- name: Bill gates
+  message: C'est l'invention du siècle
+  image_file: bill-gates.jpg
+- name: Paul Graham
+  message: Je ne pourrai pas faire mieux
+  image_file: Steve.jpg
+- name: Bill gates
+  message: C'est l'invention du siècle
+  image_file: bill-gates.jpg
+- name: Paul Graham
+  message: Je ne pourrai pas faire mieux
+  image_file: Steve.jpg
