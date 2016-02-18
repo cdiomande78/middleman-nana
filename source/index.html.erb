@@ -62,12 +62,18 @@ title: Welcome to Stylus
   </div>
 
 <div id="testimonials">
-  
+
+  <dix class="container">
+    <div class="row">
+      
   <% data.testimonials.each do |testimonial| %>
     <h3><%= testimonial.name %></h3>
     <p><%= testimolnail.message %></p>
   <% end -%>
 
+    </div>
+  </dix>
+  
 </div>
 
   <div id="map" style="width: 100%; height: 400px;"></div>
